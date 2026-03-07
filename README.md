@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Leonardo Bonavina and I'm a Full-Stack Developer & Tech Lead, from Brazil 🇧🇷</h2>
+<h2 align="left">Hi 👋! My name is Lucas Bonavina and I'm a Full-Stack Developer & Tech Lead, from Brazil 🇧🇷</h2>
 
 <p align="left">
   Full-stack developer with 8+ years of experience building scalable web systems, leading dev teams and shipping products to production. Powered by coffee ☕, games 🎮 and supervised by 3 cats: Eevee, Tommy & Ginger 🐱
@@ -10,10 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lbonavina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lbonavina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
