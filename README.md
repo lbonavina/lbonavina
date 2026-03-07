@@ -38,17 +38,6 @@
 
 ###
 
-### 📊 Estatísticas
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lbonavina&show_icons=true&hide_border=true&bg_color=0f0f11&icon_color=ff914d&title_color=ff914d&text_color=e8e8ec&locale=pt-br" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbonavina&layout=compact&hide_border=true&bg_color=0f0f11&title_color=ff914d&text_color=e8e8ec&locale=pt-br" height="150" />
-</div>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=lbonavina&locale=pt_BR&mode=daily&theme=dark&hide_border=true&background=0f0f11&ring=ff914d&fire=ff6b1a&currStreakLabel=ff914d&sideLabels=7a7a8a&dates=7a7a8a" height="150" />
-
 ###
 
 <div align="left">
@@ -56,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://lbonavina.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://lbonavina.github.io/taskletto" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Taskletto&logo=windows&label=&color=ff914d&logoColor=white&style=for-the-badge" height="35" />
