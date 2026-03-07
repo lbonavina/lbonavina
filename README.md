@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Sou Lucas Bonavina, Desenvolvedor Full-Stack & Tech Lead do Brasil 🇧🇷</h2>
+<h2 align="left">Olá 👋! Sou Lucas Bonavina, Desenvolvedor Full-Stack & IA Engineer</h2>
 
 <p align="left">
   Desenvolvedor full-stack com 8+ anos de experiência construindo sistemas web escaláveis, liderando times de desenvolvimento e entregando produtos em produção. Movido a café ☕, jogos 🎮 e supervisionado por 3 gatos: Eevee, Tommy & Ginger 🐱
