@@ -27,10 +27,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx" />
 </div>
 ###
+
 ### 🚀 Projeto em destaque
+
 [![Taskletto](https://img.shields.io/badge/Taskletto-Gerenciador_de_Tarefas_Desktop-ff914d?style=for-the-badge&logo=github&logoColor=white)](https://lbonavina.github.io/taskletto)
+
 > App desktop gratuito para gerenciar tarefas e notas — feito com Laravel, NativePHP e Tiptap.
+
 ###
+
 ###
 <div align="left">
   <a href="https://www.linkedin.com/in/lbonavina/" target="_blank">
